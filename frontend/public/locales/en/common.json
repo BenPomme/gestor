@@ -1,0 +1,76 @@
+{
+  "app": {
+    "name": "Gestoría Copilot",
+    "tagline": "Your AI-powered assistant for Spanish bureaucracy"
+  },
+  "nav": {
+    "home": "Home",
+    "documents": "Documents",
+    "tasks": "Tasks",
+    "family": "Family",
+    "chat": "Chat",
+    "settings": "Settings",
+    "logout": "Log out"
+  },
+  "auth": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "name": "Full name",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "pendingTasks": "Pending tasks",
+    "recentDocuments": "Recent documents",
+    "upcomingDeadlines": "Upcoming deadlines"
+  },
+  "documents": {
+    "upload": "Upload document",
+    "uploadDescription": "Upload a PDF, JPG, or PNG file",
+    "processing": "Processing...",
+    "processed": "Processed",
+    "error": "Error processing document",
+    "noDocuments": "No documents yet",
+    "viewDetails": "View details"
+  },
+  "tasks": {
+    "all": "All tasks",
+    "pending": "Pending",
+    "inProgress": "In progress",
+    "completed": "Completed",
+    "dueDate": "Due date",
+    "priority": "Priority",
+    "noTasks": "No tasks yet"
+  },
+  "family": {
+    "members": "Family members",
+    "addMember": "Add family member",
+    "relationship": "Relationship",
+    "spouse": "Spouse",
+    "partner": "Partner",
+    "child": "Child",
+    "parent": "Parent",
+    "sibling": "Sibling",
+    "other": "Other"
+  },
+  "chat": {
+    "placeholder": "Ask me anything about Spanish bureaucracy...",
+    "send": "Send",
+    "thinking": "Thinking..."
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "confirm": "Confirm"
+  }
+}

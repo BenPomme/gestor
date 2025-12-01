@@ -1,0 +1,76 @@
+{
+  "app": {
+    "name": "Gestoría Copilot",
+    "tagline": "Tu asistente de IA para la burocracia española"
+  },
+  "nav": {
+    "home": "Inicio",
+    "documents": "Documentos",
+    "tasks": "Tareas",
+    "family": "Familia",
+    "chat": "Chat",
+    "settings": "Configuración",
+    "logout": "Cerrar sesión"
+  },
+  "auth": {
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "name": "Nombre completo",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes cuenta?",
+    "haveAccount": "¿Ya tienes cuenta?"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido de nuevo",
+    "pendingTasks": "Tareas pendientes",
+    "recentDocuments": "Documentos recientes",
+    "upcomingDeadlines": "Próximas fechas límite"
+  },
+  "documents": {
+    "upload": "Subir documento",
+    "uploadDescription": "Sube un archivo PDF, JPG o PNG",
+    "processing": "Procesando...",
+    "processed": "Procesado",
+    "error": "Error al procesar documento",
+    "noDocuments": "Aún no hay documentos",
+    "viewDetails": "Ver detalles"
+  },
+  "tasks": {
+    "all": "Todas las tareas",
+    "pending": "Pendientes",
+    "inProgress": "En progreso",
+    "completed": "Completadas",
+    "dueDate": "Fecha límite",
+    "priority": "Prioridad",
+    "noTasks": "Aún no hay tareas"
+  },
+  "family": {
+    "members": "Miembros de la familia",
+    "addMember": "Añadir familiar",
+    "relationship": "Relación",
+    "spouse": "Cónyuge",
+    "partner": "Pareja",
+    "child": "Hijo/a",
+    "parent": "Padre/Madre",
+    "sibling": "Hermano/a",
+    "other": "Otro"
+  },
+  "chat": {
+    "placeholder": "Pregúntame sobre la burocracia española...",
+    "send": "Enviar",
+    "thinking": "Pensando..."
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "retry": "Reintentar",
+    "confirm": "Confirmar"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "app": {
+    "name": "Gestoría Copilot",
+    "tagline": "El teu assistent d'IA per a la burocràcia espanyola"
+  },
+  "nav": {
+    "home": "Inici",
+    "documents": "Documents",
+    "tasks": "Tasques",
+    "family": "Família",
+    "chat": "Xat",
+    "settings": "Configuració",
+    "logout": "Tancar sessió"
+  },
+  "auth": {
+    "login": "Iniciar sessió",
+    "signup": "Registrar-se",
+    "email": "Correu electrònic",
+    "password": "Contrasenya",
+    "confirmPassword": "Confirmar contrasenya",
+    "name": "Nom complet",
+    "forgotPassword": "Has oblidat la contrasenya?",
+    "noAccount": "No tens compte?",
+    "haveAccount": "Ja tens compte?"
+  },
+  "dashboard": {
+    "welcome": "Benvingut de nou",
+    "pendingTasks": "Tasques pendents",
+    "recentDocuments": "Documents recents",
+    "upcomingDeadlines": "Properes dates límit"
+  },
+  "documents": {
+    "upload": "Pujar document",
+    "uploadDescription": "Puja un fitxer PDF, JPG o PNG",
+    "processing": "Processant...",
+    "processed": "Processat",
+    "error": "Error en processar document",
+    "noDocuments": "Encara no hi ha documents",
+    "viewDetails": "Veure detalls"
+  },
+  "tasks": {
+    "all": "Totes les tasques",
+    "pending": "Pendents",
+    "inProgress": "En progrés",
+    "completed": "Completades",
+    "dueDate": "Data límit",
+    "priority": "Prioritat",
+    "noTasks": "Encara no hi ha tasques"
+  },
+  "family": {
+    "members": "Membres de la família",
+    "addMember": "Afegir familiar",
+    "relationship": "Relació",
+    "spouse": "Cònjuge",
+    "partner": "Parella",
+    "child": "Fill/a",
+    "parent": "Pare/Mare",
+    "sibling": "Germà/na",
+    "other": "Altre"
+  },
+  "chat": {
+    "placeholder": "Pregunta'm sobre la burocràcia espanyola...",
+    "send": "Enviar",
+    "thinking": "Pensant..."
+  },
+  "common": {
+    "save": "Desar",
+    "cancel": "Cancel·lar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "loading": "Carregant...",
+    "error": "S'ha produït un error",
+    "retry": "Tornar a intentar",
+    "confirm": "Confirmar"
+  }
+}
